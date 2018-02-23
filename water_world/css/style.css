@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.wrap {
+    width: 100%;
+    height: 637px;
+    position: relative;
+    background: #20B2AA;
+}
+
+.world {
+    width: 100%;
+    height: 92%;
+    position: absolute;
+    background: url("../img/world.svg") no-repeat center /contain;
+    bottom: 0;
+    z-index: 2;
+}
+
+.water {
+    width: 100%;
+    height: 15%;
+    position: absolute;
+    background: url("../img/water.svg") no-repeat top center /cover;
+    bottom: 0;
+    z-index: 4;
+}
+
+.wooden-ship {
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    background: url("../img/wooden-ship.svg") no-repeat center /cover;
+    bottom: 13%;
+    left: 4%;
+    z-index: 3;
+}
+
+.clouds {
+    width: 300px;
+    height: 150px;
+    position: absolute;
+    background: url("../img/clouds.svg") no-repeat center top /contain;
+    top: 0;
+    right: 31%;
+    z-index: 1;
+}

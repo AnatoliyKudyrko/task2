@@ -1,0 +1,359 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"col",
+				"color"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"d",
+				"dotted"
+			],
+			[
+				"bo",
+				"border-style"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"fo",
+				"footer\tTag"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"b",
+				"button"
+			],
+			[
+				"maR",
+				"margin"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"co",
+				"contain"
+			],
+			[
+				"o",
+				"overflow"
+			],
+			[
+				"c",
+				"cover"
+			],
+			[
+				"f",
+				"float"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"fil",
+				"filter"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"borde",
+				"border-style"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"s",
+				"section\tTag"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"re",
+				"repeat-x"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"i",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"li",
+				"list-style-type"
+			],
+			[
+				"fle",
+				"inline-flex"
+			],
+			[
+				"he",
+				"header\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Install Package Control"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/tolii/Desktop/lemon_errors/style.css",
+		"/C/Users/tolii/Desktop/lemon_errors/index.html",
+		"/C/Users/tolii/Desktop/docua2 — копия/css/style.css",
+		"/C/Users/tolii/Desktop/docua2 — копия/index.html",
+		"/C/Users/tolii/Desktop/docua2 — копия/image/text.txt",
+		"/C/Users/tolii/Desktop/сайт/index.html",
+		"/C/Users/tolii/Desktop/сайт/css/style.css",
+		"/C/Users/tolii/Desktop/сайт/img/text.txt",
+		"/C/Users/tolii/Documents/GitHub/test/index.html",
+		"/C/Users/tolii/Desktop/test/main.css",
+		"/C/Users/tolii/Desktop/test/index.html",
+		"/C/Users/tolii/Desktop/сайт/main.css",
+		"/C/Users/tolii/Desktop/Новый текстовый документ (8).txt",
+		"/C/Users/tolii/Desktop/solution.cpp",
+		"/C/Users/tolii/Documents/IdeaProjects/filepast/file.txt$1",
+		"/C/Users/tolii/Documents/IdeaProjects/filepast/file.txt$0",
+		"/C/Users/tolii/Documents/IdeaProjects/filepast/file.txt",
+		"/C/Users/tolii/Documents/IdeaProjects/untitled6/temp.txt",
+		"/C/Users/tolii/Documents/IdeaProjects/untitled6/tempbyte.txt"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "cossacs.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\tolii\\Desktop\\сайт\\index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
